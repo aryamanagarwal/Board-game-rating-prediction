@@ -8,7 +8,7 @@ The columns 'id','name','type' have been removed as they have no corelation with
 The columns 'average_rating' and 'bayes_average_rating' have been removed as they are what we want to predict.
 <br>
 After this we split the data into training and testing set.<br>
-After this the modela(Linear Regression,Random Forest Classifier) was trained on the training data and the predictions were made on the testing data.
+After this the models(Linear Regression,Random Forest Classifier) were trained on the training data and the predictions were made on the testing data.
 Following MSE(mean squared error) score was obtained.(Results might slightly vary on different runs.)<br>
 1. Linear Regression: 2.078819032629326
 2. Random Forest Classifier: 1.4458560046071653
